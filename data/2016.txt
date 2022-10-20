@@ -1,0 +1,79 @@
+Institution,UG-head,UG-FTE,GR-head,GR-FTE
+Adler School of Professional Psychology ,0,0,1100,715
+Augustana College ,2537,2528,0,0
+Aurora University ,3796,3626,1847,1181
+Benedictine University ,3180,2860,2440,1460
+Blackburn College ,596,610,0,0
+Blessing-Rieman College of Nursing ,255,246,15,11
+Bradley University ,4473,4374,1125,666
+Catholic Theological Union ,0,0,328,167
+Christian Life College ,0,0,45,25
+Columbia College Chicago ,7809,7403,311,251
+Concordia University Chicago ,1530,1442,4073,1831
+DePaul University ,15407,15062,7703,5125
+Dominican University ,2306,2264,1216,719
+East-West University ,525,490,0,0
+Elmhurst College ,2856,2897,547,349
+Erikson Institute ,0,0,269,134
+Eureka College ,672,678,0,0
+Garrett-Evangelical Theological Seminary ,0,0,332,196
+Greenville College ,960,911,207,88
+Hebrew Theological College ,230,130,4,4
+Illinois College ,958,1056,2,0
+Illinois College of Optometry ,0,0,643,1098
+Illinois Institute of Technology ,2924,2853,4782,3715
+Illinois Wesleyan University ,1771,1768,0,0
+Institute for Clinical Social Work ,0,0,78,48
+Judson University ,1124,965,162,104
+Knox College ,1357,1397,0,0
+Lake Forest College ,1545,1640,37,19
+Lake Forest Graduate School of Management ,0,0,394,99
+Lakeview College of Nursing ,284,233,0,0
+Lewis University ,4550,4218,1954,1028
+Lincoln Christian University ,462,474,310,218
+Lincoln College ,1067,890,0,0
+Loyola University of Chicago ,11129,11024,5293,4161
+Lutheran School of Theology at Chicago ,0,0,212,110
+MacCormac College ,218,118,0,0
+McCormick Theological Seminary ,0,0,199,30
+McKendree University ,2290,2100,647,369
+Meadville Lombard Theological School ,0,0,100,79
+Methodist College ,672,506,8,3
+Midwestern University ,0,0,2932,3623
+Millikin University ,1974,2013,85,87
+Monmouth College ,1150,1141,0,0
+Moody Bible Institute ,2313,2029,611,335
+Morrison Institute of Technology ,92,104,0,0
+National College of Naprapathic Medicine ,0,0,15,18
+National-Louis University ,1467,1198,2767,1684
+North Central College ,2716,2682,233,119
+North Park University ,2124,2006,927,430
+Northern Baptist Theological Seminary ,0,0,211,69
+NorthShore University HealthSystem School of Nurse Anesthesia ,0,0,58,42
+Northwestern University ,8999,9029,12946,11442
+Olivet Nazarene University ,3358,3316,1549,962
+Principia College ,479,479,0,0
+Quincy University ,1079,1081,92,46
+Realtor University ,0,0,56,28
+Resurrection University ,570,500,62,32
+Rockford University ,1086,1001,212,107
+Roosevelt University ,2767,2475,1957,1362
+Rosalind Franklin University of Medicine and Science ,0,0,2163,3095
+Rush University ,122,98,2381,1917
+Spertus Institute for Jewish Learning and Leadership ,0,0,167,59
+St. Anthony College of Nursing ,238,203,83,39
+St. Augustine College ,1402,1032,0,0
+St. Francis Medical Center College of Nursing ,392,331,246,122
+St. Johns College of Nursing ,136,134,0,0
+St. Sava Serbian Orthodox School of Theology ,24,36,0,0
+St. Xavier University ,2965,2793,922,494
+Telshe Yeshiva ,70,70,12,9
+Toyota Technological Institute at Chicago ,0,0,28,17
+Trinity Christian College ,1193,1084,93,61
+Trinity College of Nursing ,222,174,5,2
+Trinity International University ,890,723,1102,541
+University of St. Mary of the Lake ,0,0,249,24
+University of Chicago ,6054,6013,9912,8878
+University of St. Francis ,1608,1454,1925,847
+VanderCook College of Music ,131,124,156,49
+Wheaton College ,2456,2542,445,327
